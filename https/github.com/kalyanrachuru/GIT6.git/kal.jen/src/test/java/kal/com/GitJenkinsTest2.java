@@ -9,8 +9,8 @@ public class GitJenkinsTest2 {
 		
 		System.out.println("testing git and jenkins ");
 		System.out.println(" " );
-		System.out.println("testing once again git and jenkins 1 ");
-		System.out.println(" " );
-		System.out.println("testing once again git and jenkins 2 ");
+//		System.out.println("testing once again git and jenkins 1 ");
+//		System.out.println(" " );
+//		System.out.println("testing once again git and jenkins 2 ");
 	}
 }
