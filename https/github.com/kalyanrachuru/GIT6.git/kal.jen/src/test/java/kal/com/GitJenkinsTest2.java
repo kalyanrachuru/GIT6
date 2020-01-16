@@ -2,7 +2,7 @@ package kal.com;
 
 import org.testng.annotations.Test;
 
-public class GitJenkinsTest {
+public class GitJenkinsTest2 {
 
 	@Test
 	public void display() {
